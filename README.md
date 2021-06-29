@@ -91,5 +91,6 @@ Repeat the above breakdown, but this time group schools based on a reasonable ap
 
 Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
 
-![image](https://user-images.githubusercontent.com/14172820/123734775-94846a80-d863-11eb-8ef2-e79defc4c70c.png)
+![image](https://user-images.githubusercontent.com/14172820/123735003-02309680-d864-11eb-9c5a-25368a02a1cc.png)
+
 
