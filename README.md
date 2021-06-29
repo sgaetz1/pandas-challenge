@@ -29,7 +29,7 @@ Create an overview table that summarizes key metrics about each school, includin
 * Per Student Budget
 * Average Math Score
 * Average Reading Score
-* % Passing Math (The percentage of students that passed math.)
+* % Passing Math (The percentage of students that passed math.) 
 * % Passing Reading (The percentage of students that passed reading.)
 * % Overall Passing (The percentage of students that passed math and reading.)
 
