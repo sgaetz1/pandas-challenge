@@ -2,7 +2,7 @@
 This project uses the Pandas library to analyze district-wide standardized test results. Using student's math and reading scores, as well as various information on the schools they attend, the data is aggragated to showcase obvious trends in school performance.
 The final report includes each of the following:
 
-##District Summary
+## District Summary
 
  Create a high level snapshot (in table form) of the district's key metrics, including:
  
@@ -18,7 +18,7 @@ The final report includes each of the following:
 
 
 
-##School Summary
+## School Summary
 
 Create an overview table that summarizes key metrics about each school, including:
 
@@ -36,7 +36,7 @@ Create an overview table that summarizes key metrics about each school, includin
 
 
 
-##Top Performing Schools (By % Overall Passing)
+## Top Performing Schools (By % Overall Passing)
 
 Create a table that highlights the top 5 performing schools based on % Overall Passing. Include:
 
@@ -54,22 +54,22 @@ Create a table that highlights the top 5 performing schools based on % Overall P
 
 
 
-##Bottom Performing Schools (By % Overall Passing)
+## Bottom Performing Schools (By % Overall Passing)
 
 Create a table that highlights the bottom 5 performing schools based on % Overall Passing. Include all of the same metrics as above.
 
 
-##Math Scores by Grade
+## Math Scores by Grade
 
 Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 
-##Reading Scores by Grade
+## Reading Scores by Grade
 
 Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 
-##Scores by School Spending
+## Scores by School Spending
 
 Create a table that breaks down school performances based on average Spending Ranges (per student). Use 4 reasonable bins to group school spending. Include in the table each of the following:
 
