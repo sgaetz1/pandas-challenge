@@ -82,11 +82,11 @@ Create a table that breaks down school performances based on average Spending Ra
 
 
 
-##Scores by School Size
+## Scores by School Size
 
 Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
 
 
-##Scores by School Type
+## Scores by School Type
 
 Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
